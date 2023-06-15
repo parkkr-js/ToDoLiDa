@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "963964165515",
+    "project_id": "moapp-project-c7183",
+    "storage_bucket": "moapp-project-c7183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963964165515:android:c9cfffdcf8e538a1a3638e",
+        "android_client_info": {
+          "package_name": "com.example.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963964165515-7s0q11ppj1rqgr6ij363javksotpb6jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKwOwgErHpt3_BpMsEW_XJ9OLDdrvlfXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963964165515-7s0q11ppj1rqgr6ij363javksotpb6jq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963964165515-0sc6ka85q2flq351ggfvlp496sao4g13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.remind.remind"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963964165515:android:b75399df454a9387a3638e",
+        "android_client_info": {
+          "package_name": "com.remind.remind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963964165515-7s0q11ppj1rqgr6ij363javksotpb6jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKwOwgErHpt3_BpMsEW_XJ9OLDdrvlfXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963964165515-7s0q11ppj1rqgr6ij363javksotpb6jq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963964165515-0sc6ka85q2flq351ggfvlp496sao4g13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.remind.remind"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
